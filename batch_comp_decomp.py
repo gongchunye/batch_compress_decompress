@@ -88,6 +88,7 @@ class COMPDECOMP():
                 srcList.append(input1)
 
             if xx =='001' and (xx5[-2]=='zip' or xx5[-2]=='7z'):
+                bExist=True
                 xx1=input1.split(".001")[-2]
                 for i in range(1,100000):
                     xx2=xx1+".%03d"%i
