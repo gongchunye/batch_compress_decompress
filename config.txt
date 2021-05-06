@@ -1,8 +1,10 @@
 ###exe=C:\Program Files\7-Zip\7z.exe
-###compress_or_decompress=comp
-###deleteSourceFile=0
+###compress_or_decompress=decomp
+###deleteSourceFile=1
 ###password=123456
 ###type=7z
+###size=20m
+###indir=1
 C:\Users\anlong\Desktop\tmp\111
-C:\Users\anlong\Desktop\tmp\444\x1
+C:\Users\anlong\Desktop\tmp\444.mp4
 C:\Users\anlong\Desktop\tmp\demo_xxx.cc
